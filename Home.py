@@ -5,7 +5,7 @@ st.header('Supanida')
 col1, col2, col3 = st.columns(3)
 
 #st.header("kairung")
-st.image("./pic/Supanida.png")
+st.image("./pic/Supanida.jpg")
 col1, col2, col3 = st.columns(3)
 
 with col1:
