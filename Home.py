@@ -6,7 +6,7 @@ import matplotlib.pyplot as plt
 import plotly.express as px
 import plotly.graph_objects as go
 
-st.header('Supanida')
+st.header('Supanida Phetaueang')
 st.image("./pic/Supanida.jpg")
 col1, col2, col3 = st.columns(3)
 
