@@ -2,9 +2,10 @@ import streamlit as st
 
 st.header('Supanida')
 
+col1, col2, col3 = st.columns(3)
+
 #st.header("kairung")
 st.image("./pic/Supanida.png")
-
 col1, col2, col3 = st.columns(3)
 
 with col1:
